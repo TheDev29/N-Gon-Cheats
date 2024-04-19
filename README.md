@@ -1,26 +1,26 @@
 # N-Gon-Cheats
 Simple cheats for the game N-Gon
 
-```m.setField("grappling hook") //give grappling hook
+```m.setField("grappling hook") //give grappling hook```
 
-b.giveGuns("laser") //give laser weapon
+```b.giveGuns("laser") //give laser weapon```
 
-b.giveGuns("super balls") //give super balls
+```b.giveGuns("super balls") //give super balls```
 
-m.maxHealth = 500 //set max health to 500
+```m.maxHealth = 500 //set max health to 500```
 
-m.health += 500 //add 500 health
+```m.health += 500 //add 500 health```
 
-level.nextLevel() //next level
+```level.nextLevel() //next level```
 
-level.onLevel("final") //skip to final level
+```level.onLevel("final") //skip to final level```
 
-tech.giveTech("dead reckoning") //give dead reckoning tech
+```tech.giveTech("dead reckoning") //give dead reckoning tech```
 
-level.levels.push("null") //get all null
+```level.levels.push("null") //get all null```
 
-m.setField("negative mass") //give negative mass
+```m.setField("negative mass") //give negative mass```
 
-levels.onLevels("undefined") //final level (must get all null)
+```levels.onLevels("undefined") //final level (must get all null)```
 
-lore.unlockTesting() //get testing menu```
+```lore.unlockTesting() //get testing menu```
