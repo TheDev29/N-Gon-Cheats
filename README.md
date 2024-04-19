@@ -29,6 +29,8 @@ Simple cheats for the game N-Gon
 
 Go to the [N Gon website](https://landgreen.github.io/n-gon/)
 
-Click **Ctrl** + **Shift** + **J** (or how you get to console)
+- **Click **Ctrl** + **Shift** + **J** (or how you get to console)
 
-Paste in the N-Gon code you want.
+- Paste in the N-Gon code you want.
+
+## Custom   
