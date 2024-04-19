@@ -27,10 +27,24 @@ Simple cheats for the game N-Gon
 
 ## How to Install:
 
-Go to the [N Gon website](https://landgreen.github.io/n-gon/)
+- Go to the [N Gon website](https://landgreen.github.io/n-gon/)
 
-- **Click **Ctrl** + **Shift** + **J** (or how you get to console)
+- Click **Ctrl** + **Shift** + **J** (or how you get to console)
 
 - Paste in the N-Gon code you want.
 
-## Custom   
+## Custom Cheats
+
+If you do not like the things the cheats above give you, you can create your own.
+
+- Step 1: Find if you want to get tech, a field, or a weapon.
+
+- Step 2: Type in the code below and the name of what you want into the console.
+
+## Custom Cheats Code
+
+**Tech:** ```tech.giveTech("type tech here")```
+
+**Field:** ```m.setField("type field here")```
+
+**Weapon:** ```b.giveGuns("super balls")```
