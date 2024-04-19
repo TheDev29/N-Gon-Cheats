@@ -24,3 +24,11 @@ Simple cheats for the game N-Gon
 ```levels.onLevels("undefined") //final level (must get all null)```
 
 ```lore.unlockTesting() //get testing menu```
+
+## How to Install:
+
+Go to the [N Gon website](https://landgreen.github.io/n-gon/)
+
+Click **Ctrl** + **Shift** + **J** (or how you get to console)
+
+Paste in the N-Gon code you want.
