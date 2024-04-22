@@ -1,4 +1,4 @@
-# N-Gon-Cheats
+# N Gon Cheats
 Simple cheats for the game N-Gon
 
 ```m.setField("grappling hook") //give grappling hook```
